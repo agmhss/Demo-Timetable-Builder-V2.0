@@ -4,8 +4,8 @@
  */
 
 const APP_CONFIG = {
-    fullName: "GHSS VELAMURITHANPETTAI", 
-    shortName: "GHSS VMPT",                                           
+    fullName: "XYZ School", 
+    shortName: "xyz School",                                           
     scriptUrl: "" 
 };
 const SCRIPT_URL = APP_CONFIG.scriptUrl;
