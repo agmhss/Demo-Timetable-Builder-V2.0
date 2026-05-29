@@ -6,7 +6,7 @@
 const APP_CONFIG = {
     fullName: "XYZ School", 
     shortName: "xyz School",                                           
-    scriptUrl: "" 
+    scriptUrl: "https://script.google.com/macros/s/AKfycbxHVcbEiW4nQyDtIv2bu8ECtfXwzeZzWymkLbexhjufHzQwuBAa0-__5zFTWHXuK8lz/exec" 
 };
 const SCRIPT_URL = APP_CONFIG.scriptUrl;
 
